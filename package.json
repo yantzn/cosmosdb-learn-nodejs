@@ -1,0 +1,17 @@
+{
+  "name": "grades",
+  "version": "1.0.0",
+  "description": "Student and course grades maintenance",
+  "main": "studentgrades.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cosmos": "^3.5.4",
+    "@types/node": "^13.7.0",
+    "readline-sync": "^1.4.10"
+  }
+}
